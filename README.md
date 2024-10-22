@@ -9,8 +9,10 @@ You can go through the links and just see my project assignment.
 
 if you want to run my project on your local meching just follow the instruction...
 
-1.Clone the repository 
-
+1.Clone the repository using below command:
+```bash
+  git clone https://github.com/badalhalder99/medium-blog.git
+```
 2.Go to root directory and run the below command:
 
 To run tests, run the following command:
